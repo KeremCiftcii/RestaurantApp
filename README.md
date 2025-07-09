@@ -18,13 +18,9 @@
 - MS SQL Server
 - Bootstrap (or any other UI framework used)
 - LINQ, Razor Views
-
-## 📸 Screenshots
-
-> *You can add images or GIFs here to showcase the app's interface.*
-
+- 
 ## 🔧 Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RestaurantApp.git
+   git clone https://github.com/KeremCiftcii/RestaurantApp.git
